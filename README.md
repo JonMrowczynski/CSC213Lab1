@@ -12,7 +12,6 @@ Version control systems are the cornerstone of life in industry. Without version
 
 - Introduction to Version Control
 - Overview of Git + GitHub
-- Installation
 - Setting up a GitHub Account
 - Basic Git Commands
 - GitHub Repository Setup
@@ -75,7 +74,7 @@ Create and share a GitHub repo by doing the following:
 2. Clone that repo locally using SSH.
 3. Create a folder named `src` in that project.
 4. Add a file named `HelloWorld.java` in that folder.
-5. When run, this file should print `Hello World` to the terminal.
+5. When run, this file should print `Hello World!` to the terminal.
 6. Add and commit the file and directory.
 7. Push the committed updated code to GitHub.
 
