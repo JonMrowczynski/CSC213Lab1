@@ -4,6 +4,8 @@
 
 **Edited by**: Jon Mrowczynski
 
+Hello World!
+
 ## Industry Rationale
 
 Version control systems (VCS) are the cornerstone of life in industry. Without VCS, modern application development would not be possible. Understanding, familiarity, and ease of use with git is essential!
