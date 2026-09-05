@@ -11,7 +11,7 @@ For:
     - Open a Terminal.
 
 ## 0. Checking for SSH Keys
-Enter in the command:
+Inside either Git Bash or the Terminal, enter in the command:
 ```
 ls -al ~/.ssh
 ```
